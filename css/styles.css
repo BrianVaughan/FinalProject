@@ -1,2 +1,12 @@
 @charset "UTF-8";
 
+body {
+	    background:rgb(158,158,158);
+		background-image: url("../img/IMG_0006.JPG");
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+	/*	background-width:1440px;
+		background-height:800px;*/
+		background-size: cover;
+}
